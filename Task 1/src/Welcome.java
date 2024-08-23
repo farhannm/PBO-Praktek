@@ -7,4 +7,4 @@ public class Welcome { // Definisi Class bernama Welcome
             System.out.print("="); // Mencetak ke layar selama state i < greeting.length bernilai TRUE
         System.out.println(); // Membuat new line atau garis baru
     }
-}
+} 
